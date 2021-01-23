@@ -4,23 +4,14 @@ Als Student (und Mitarbeiter) der Unimedizin Mainz habe ich die [Chance](https:/
 
 **Worum geht es in dieser Studie?**
 
-Es geht um einen mRNA-basierten Impfstoff gegen Sars-CoV-2 der Firma CureVac (https://www.ndr.de/fernsehen/sendungen/panorama_die_reporter/Curevac,curevac104.html) mit Sitz in Tübingen. Wie auch andere mRNA Impfstoffe kodiert dieser für das Spike-Protein (https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/praesentation-curevac-zweite-studie-sars-cov-2-impfstoff.pdf?__blob=publicationFile&v=2).
-Ziel ist es auch hier, dass diese mRNA (als DER natürliche Informationsvermittler in unseren Zellen) von den Zellen im Oberarm aufgenommen, das Spike-Protein produziert wird und somit Zellen unseres Immunsystem auf eben dieses Protein trainiert werden. 
-In prä-klinischen Studien hat der Impfstoffkandidat in Mäusen hohe Titer an neutralisierenden Antikörpern gegen Sars-CoV-2 erzeugt (https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/praesentation-curevac-zweite-studie-sars-cov-2-impfstoff.pdf). 
-In einer Phase 1 Studie an 248 Personen kam es zu keinen "ungewöhnlichen Vorkommnissen" (https://www.aerzteblatt.de/nachrichten/118229/COVID-19-Impfstoff-von-Curevac-erzielt-guenstige-Zwischenergebnisse-in-Phase-1-Studie) und es gab lediglich leichte bis mäßige Reaktionen von vorübergehender Dauer (wie auch bei den anderen mRNA Impfstoffen). 
-Seit September läuft eine Phase 2a Studie mit 660 Probanden, in der es um die Dosisbestätigung (https://www.curevac.com/covid-19/) geht. 
-Zulassungsrelevant ist die Phase 2b/3 Studie und an dieser Phase 3 Studie (https://flexikon.doccheck.com/de/Phase-III-Studie) nehme ich teil, mit dem Ziel: 
-"in der Phase 3 die Wirksamkeit von CVnCoV untersucht. Die Studie findet an mehreren Standorten statt, wobei den Probanden im Abstand von 28 Tagen CVnCoV oder ein Placebo injiziert wird".
+Es geht um einen mRNA-basierten Impfstoff gegen Sars-CoV-2 der Firma [CureVac](https://www.ndr.de/fernsehen/sendungen/panorama_die_reporter/Curevac,curevac104.html) mit Sitz in Tübingen. Wie auch andere mRNA Impfstoffe [kodiert dieser für das Spike-Protein](https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/praesentation-curevac-zweite-studie-sars-cov-2-impfstoff.pdf?__blob=publicationFile&v=2). Ziel ist es auch hier, dass diese mRNA (als DER natürliche Informationsvermittler in unseren Zellen) von den Zellen im Oberarm aufgenommen wird, die dann das Spike-Protein produzieren und somit Zellen unseres Immunsystem auf eben dieses Protein trainiert werden zu reagieren. In [prä-klinischen Studien](https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/praesentation-curevac-zweite-studie-sars-cov-2-impfstoff.pdf) hat der Impfstoffkandidat in Mäusen hohe Titer an neutralisierenden Antikörpern gegen Sars-CoV-2 erzeugt. In einer Phase 1 Studie an 248 Personen kam es zu keinen ["ungewöhnlichen Vorkommnissen"](https://www.aerzteblatt.de/nachrichten/118229/COVID-19-Impfstoff-von-Curevac-erzielt-guenstige-Zwischenergebnisse-in-Phase-1-Studie) und es gab lediglich leichte bis mäßige Reaktionen von vorübergehender Dauer (wie auch bei den anderen mRNA Impfstoffen). 
+Seit September läuft eine Phase 2a Studie mit 660 Probanden, in der es um die ["Dosisbestätigung"](https://www.curevac.com/covid-19/) geht. 
+Zulassungsrelevant ist die Phase 2b/3 Studie und an dieser [Phase 3 Studie](https://flexikon.doccheck.com/de/Phase-III-Studie) nehme ich teil, mit dem [Ziel](https://www.curevac.com/covid-19/): 
+"in der Phase 3 [wird] die Wirksamkeit von CVnCoV untersucht. Die Studie findet an mehreren Standorten statt, wobei den Probanden im Abstand von 28 Tagen CVnCoV oder ein Placebo injiziert wird" .
 
-### Markdown
+**Warum mache ich mit?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+- Respekt: Ich habe einen riesen Respekt vor diesem neu-artigen Virus, welches eben [nicht vergleichbar mit einer Grippe](https://www.pharmazeutische-zeitung.de/covid-19-ist-definitiv-gefaehrlicher-als-die-grippe-122629/) ist. Auch bei geringer Wahrscheinlichkeit eines schweren Verlaufs (bei mir als gesundem jungen Menschen), möchte ich nicht auf der Intensivstation liegen müssen, wenn es doch eine impfpräventable Alternative gibt. Viel höher ist die Wahrscheinlichkeit eines milden Verlaufs bei Infektion, aber leider mit [Langzeitfolgen](https://www.quarks.de/gesundheit/medizin/langzeitschaeden-von-covid-19-was-wir-wissen-und-was-nicht/). COVID-19 ist eine [Multisystemerkrankung](https://www.medical-tribune.de/medizin-und-forschung/artikel/post-covid-syndrom-multisystemerkrankung-kann-langzeitfolgen-haben/) und dieses Virus wurde schon in [zahlreichen Organen nachgewiesen](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009037). Ehrlich, das möchte ich nicht haben. Zusätzlich steigert die höhere Übertragbarkeit der [neuen Mutationen](ndr.de/nachrichten/info/72-Coronavirus-Update-Menschen-Massnahmen-Mutationen,podcastcoronavirus280.html#Verbreitung) meinen Repsekt noch zusätzlich.
 ### Header 3
 
 - Bulleted
@@ -29,17 +20,4 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebboegel/sebboegel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
