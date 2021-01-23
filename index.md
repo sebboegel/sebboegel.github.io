@@ -1,14 +1,16 @@
 ## Proband bei der Phase 3 Sars-CoV-2 mRNA Impfstudie von CureVac
 
-Als Student (und Mitarbeiter) der Unimedizin Mainz habe ich die Chance, freiwillig an der Phase 3 Sars-CoV-2 mRNA Impfstudie (https://www.aerztezeitung.de/Wirtschaft/CureVac-testet-Corona-Impfstoff-an-Klinikmitarbeitern-415801.html) von CureVac (https://www.curevac.com/covid-19/) aus Tübingen teilzunehmen .
-Als ich diese Mail bekam, habe ich mich mit meiner Familie beraten und obwohl es mit homeschooling und meiner Klausurenphase stressig genug ist,
-stand die Entscheidung doch relativ schnell fest. 
-Ich habe mir noch die Erlaubnis vom Studienleiter geholt, dass ich über meine Erfahrungen als Proband öffentlich berichten darf, wenn ich in meinem "Blog deutlich mache(n), dass es sich nicht um offizielle Verlautbarungen der Studie, der Studienleitung oder des Sponsors handelt, sondern um einen persönlichen Erfahrungsbericht." 
-Und genauso ist es. Ich habe weder mit CureVac noch mit der Studienleitung irgendeine Beziehung.
+Als Student (und Mitarbeiter) der Unimedizin Mainz habe ich die [Chance] (https://www.aerztezeitung.de/Wirtschaft/CureVac-testet-Corona-Impfstoff-an-Klinikmitarbeitern-415801.html), freiwillig an der Phase 3 Sars-CoV-2 mRNA Impfstudie  von CureVac (https://www.curevac.com/covid-19/) aus Tübingen teilzunehmen. Als ich diese Mail bekam, habe ich mich mit meiner Familie beraten und obwohl es mit homeschooling und meiner Klausurenphase stressig genug ist, stand die Entscheidung doch relativ schnell fest. Ich habe mir noch die Erlaubnis vom Studienleiter geholt, dass ich über meine Erfahrungen als Proband öffentlich berichten darf, wenn ich in meinem "Blog deutlich mache(n), dass es sich nicht um offizielle Verlautbarungen der Studie, der Studienleitung oder des Sponsors handelt, sondern um einen persönlichen Erfahrungsbericht." Und genauso ist es. Ich stehe weder mit CureVac noch mit der Studienleitung in irgendeiner Beziehung und berichte von meinen persönlichen Erfahrungen und füge einen wissenschaftlichen Rahmen hinzu.
 
-You can use the [editor on GitHub](https://github.com/sebboegel/sebboegel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**Worum geht es in dieser Studie?**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Es geht um einen mRNA-basierten Impfstoff gegen Sars-CoV-2 der Firma CureVac (https://www.ndr.de/fernsehen/sendungen/panorama_die_reporter/Curevac,curevac104.html) mit Sitz in Tübingen. Wie auch andere mRNA Impfstoffe kodiert dieser für das Spike-Protein (https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/praesentation-curevac-zweite-studie-sars-cov-2-impfstoff.pdf?__blob=publicationFile&v=2).
+Ziel ist es auch hier, dass diese mRNA (als DER natürliche Informationsvermittler in unseren Zellen) von den Zellen im Oberarm aufgenommen, das Spike-Protein produziert wird und somit Zellen unseres Immunsystem auf eben dieses Protein trainiert werden. 
+In prä-klinischen Studien hat der Impfstoffkandidat in Mäusen hohe Titer an neutralisierenden Antikörpern gegen Sars-CoV-2 erzeugt (https://www.pei.de/SharedDocs/Downloads/DE/newsroom/dossiers/praesentation-curevac-zweite-studie-sars-cov-2-impfstoff.pdf). 
+In einer Phase 1 Studie an 248 Personen kam es zu keinen "ungewöhnlichen Vorkommnissen" (https://www.aerzteblatt.de/nachrichten/118229/COVID-19-Impfstoff-von-Curevac-erzielt-guenstige-Zwischenergebnisse-in-Phase-1-Studie) und es gab lediglich leichte bis mäßige Reaktionen von vorübergehender Dauer (wie auch bei den anderen mRNA Impfstoffen). 
+Seit September läuft eine Phase 2a Studie mit 660 Probanden, in der es um die Dosisbestätigung (https://www.curevac.com/covid-19/) geht. 
+Zulassungsrelevant ist die Phase 2b/3 Studie und an dieser Phase 3 Studie (https://flexikon.doccheck.com/de/Phase-III-Studie) nehme ich teil, mit dem Ziel: 
+"in der Phase 3 die Wirksamkeit von CVnCoV untersucht. Die Studie findet an mehreren Standorten statt, wobei den Probanden im Abstand von 28 Tagen CVnCoV oder ein Placebo injiziert wird".
 
 ### Markdown
 
