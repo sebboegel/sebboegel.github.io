@@ -30,5 +30,5 @@ Einziger Wermutstropfen aus der Sicht eines Probanden: die Studie dauert 13,5 Mo
 Will man sich als potentieller Impfling über die Impfung informieren, so ließt man immer wieder Unsinn, den man selbst vielleicht nur schwer einordnen kann und dadurch massiv verunsichert wird. Vielleicht kann dieser Blog einen kleinen bescheidenen Beitrag dazu leisten Missverständnisse zu beseitigen und eventuell somit Sorgen zu nehmen.Es wird natürlich nicht jeden Tag ein Update geben, sondern nur, wenn etwas spannendes passiert. Am Anfang mehr, dann wahrscheinlich weniger. Auch werde ich es nicht schaffen immer tagesaktuell zu schreiben. Da ich aber nicht nur Proband, sondern auch Wissenschaftler und angehender Mediziner, werde ich versuchen evidenz- und emotions-basiertes bloggen so zu vereinen um der [Verantwortung](https://www.dgim.de/fileadmin/user_upload/PDF/Pressemeldungen/20201217_DGIM_Aufruf_DGIM_AWMF_FINAL.pdf) gerecht zu werden.
 
 
-
+## Tag 1: Die Spritze
 
