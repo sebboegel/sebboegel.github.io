@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Proband bei der Phase 3 Sars-CoV-2 mRNA Impfstudie von CureVac
+
+Als Student (und Mitarbeiter) der Unimedizin Mainz habe ich die Chance, freiwillig an der Phase 3 Sars-CoV-2 mRNA Impfstudie (https://www.aerztezeitung.de/Wirtschaft/CureVac-testet-Corona-Impfstoff-an-Klinikmitarbeitern-415801.html) von CureVac (https://www.curevac.com/covid-19/) aus Tübingen teilzunehmen .
+Als ich diese Mail bekam, habe ich mich mit meiner Familie beraten und obwohl es mit homeschooling und meiner Klausurenphase stressig genug ist,
+stand die Entscheidung doch relativ schnell fest. 
+Ich habe mir noch die Erlaubnis vom Studienleiter geholt, dass ich über meine Erfahrungen als Proband öffentlich berichten darf, wenn ich in meinem "Blog deutlich mache(n), dass es sich nicht um offizielle Verlautbarungen der Studie, der Studienleitung oder des Sponsors handelt, sondern um einen persönlichen Erfahrungsbericht." 
+Und genauso ist es. Ich habe weder mit CureVac noch mit der Studienleitung irgendeine Beziehung.
 
 You can use the [editor on GitHub](https://github.com/sebboegel/sebboegel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
