@@ -47,7 +47,7 @@ Ich habe die ganze Zeit in mich gehört in der Hoffnung irgendwas zu spüren. Ir
 **Fazit am Ende von Tag 1**
 
 Ich freue mich und bin dankbar über diese Chance, mit dabei zu sein. Überrascht bin ich von der Tatsache, dass ich vor Einschluss in die Studie nicht auf eine aktuelle (mit PCR) oder eine frühere SARS-CoV-2 Infektion (Antikörper) getestet wurde. Auch bin ich etwas verwundert über die Papierdokumentation. Ich frage mich ob das die Compliance bei den Teilnehmern erhöht.
-Große Hoffnung und den Wunsch habe ich, dass ich noch irgendwann im Laufe des Abends oder der Nacht irgendeine (zwar selten vorkommende, aber beschriebene und kurz anhaltende) Impfreaktion (nicht Nebenwirkung!!, z.B. [Übelkeit, Schwindel etc.]https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) zeige.
+Große Hoffnung und den Wunsch habe ich, dass ich noch irgendwann im Laufe des Abends oder der Nacht irgendeine (zwar selten vorkommende, aber beschriebene und kurz anhaltende) Impfreaktion (nicht Nebenwirkung!!, z.B. [Übelkeit, Schwindel etc.](https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) zeige.
 
 ## Tag 2: Der Anruf
 
