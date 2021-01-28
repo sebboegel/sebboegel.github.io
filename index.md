@@ -42,12 +42,12 @@ Danach Blutabnahme und ich war wohl in die Studie eingeschlossen, denn nach eine
 
 **Und wie geht es mir?**
 
-Ich habe die ganze Zeit in mich gehört in der Hoffnung irgendwas zu spüren. Irgendetwas, das mir verrät, dass ich die mRNA bekommen habe und gerade eine Immunantwort im musculus deltoideus losgetreten wird. Aber irgendwie merke ich nix. Um die Einstichstelle war es etwas rot, aber das war relativ schnell weg. Interessanterweise haben lediglich 5% der Impfgruppe und sogar 1% der Placebo Gruppe der BioNTech Studie ([16-55 Yr of Age, Dose 1]https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) eine Rötung am Arm. Diese Statistik hilft mir also nicht weiter. Des Weiteren war mein Blutdruck (1 Messung) etwas erhöht, aber ansonsten war alles super. 
+Ich habe die ganze Zeit in mich gehört in der Hoffnung irgendwas zu spüren. Irgendetwas, das mir verrät, dass ich die mRNA bekommen habe und gerade eine Immunantwort im musculus deltoideus losgetreten wird. Aber irgendwie merke ich nix. Um die Einstichstelle war es etwas rot, aber das war relativ schnell weg. Interessanterweise haben lediglich 5% der Impfgruppe und sogar 1% der Placebo Gruppe der BioNTech Studie ([16-55 Yr of Age, Dose 1](https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1)) eine Rötung am Arm. Diese Statistik hilft mir also nicht weiter. Des Weiteren war mein Blutdruck (1 Messung) etwas erhöht, aber ansonsten war alles super. 
 
 **Fazit am Ende von Tag 1**
 
 Ich freue mich und bin dankbar über diese Chance, mit dabei zu sein. Überrascht bin ich von der Tatsache, dass ich vor Einschluss in die Studie nicht auf eine aktuelle (mit PCR) oder eine frühere SARS-CoV-2 Infektion (Antikörper) getestet wurde. Auch bin ich etwas verwundert über die Papierdokumentation. Ich frage mich ob das die Compliance bei den Teilnehmern erhöht.
-Große Hoffnung und den Wunsch habe ich, dass ich noch irgendwann im Laufe des Abends oder der Nacht irgendeine (zwar selten vorkommende, aber beschriebene und kurz anhaltende) Impfreaktion (nicht Nebenwirkung!!, z.B. [Übelkeit, Schwindel etc.](https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) zeige.
+Große Hoffnung und den Wunsch habe ich, dass ich noch irgendwann im Laufe des Abends oder der Nacht irgendeine (zwar selten vorkommende, aber beschriebene und kurz anhaltende) Impfreaktion (nicht Nebenwirkung!!, z.B. [Übelkeit, Schwindel etc.](https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1)) zeige.
 
 ## Tag 2: Der Anruf
 
