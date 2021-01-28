@@ -32,5 +32,26 @@ Will man sich als potentieller Impfling über die Impfung informieren, so ließt
 
 ## Tag 1: Die Spritze
 
-(folgt)
+Zum vereinbarten Termin musste ich meinen Impfausweis und den zu Hause ausgefüllten Anamnesebogen mitbringen. Zu allererst bekam ich das 23-seitige Dokument "Probandeninformation und Einwilligungserklärung für Teilnehmer der klinischen Studie", welches ich mir in Ruhe durchlesen sollte. Im Wesentlichen ist dort sehr detailliert und anschaulich beschrieben: Ziele der Studie, Ablauf, Risiken und Belastungen, Freiwilligkeit, möglicher Nutzen für einen selbst, Ein- und Ausschlusskriterien (auch nachzulesen [hier](https://clinicaltrials.gov/ct2/show/NCT04652102) unter "Criteria"), Datenschutz, Informationen zu biologischem Material. Danach gab es eine wirklich vorbildliche Untersuchung, wie man sie im Studium lernt (bis auf die Eingangsfrage: "Warum sind Sie hier/ Was kann ich für Sie tun?"):
+
+-**ausführliche Anamnese:** Fragen nach Vorerkranungen (also im Prinzip sind wir den von mir ausgefüllten Anamnesebogfen durchgegangen), ob ich schonmal Covid hatte, etc... Zwischendrin Formulare ausfüllen, Impfausweis durchforsten. Außerdem bin ich jetzt stolzer Besitzer eines Fieberthermometers, so eins mit Messspitze für den Mund (oder Po). Auch war genug Raum da für Nachfragen.
+
+-**körperlicher Untersuchung:** "keine Diagnose durch die Hose", neurologische Untersuchungen, Herz, Lungen, Bauch abgehört (letzte beiden auch abgeklopft und Bauch gedrückt), Lymphknoten getastet, Blutdruck.
+
+Danach Blutabnahme und ich war wohl in die Studie eingeschlossen, denn nach einer kurzen Wartezeit wurde der Impfstoff (oder Placebo) für mich frisch aus der Klinikapotheke geholt und der magische Moment war gekommen. Hab drauf verzichtet jemanden nach einem Foto zu fragen während mir die Spritze gegeben wurde. War auch sehr unspektakulär in den linken Oberarm (wie also bei jeder anderen Impfung auch). Danach musste ich 30 Minuten dort bleiben und wurde beobachtet, Blutdruck gemessen, befragt und das weitere Vorgehen erklärt: ich muss jeden Tag Tagebuch führen. Dafür habe ich einen Schnellhefter mit ausgedruckten Tabellen(!) bekommen: Tabelle 1 - Reaktionen an der Einschnittstelle, Tabelle 2 - Allgemeine Reaktionen. Notfallnummern (Tag und Nacht) sind auch dabei. Sollte irgendwas ungewöhnlich sein oder ich Covid-Symptome spüre, werde ich einbestellt, untersucht und getestet.
+
+![image](table1.jpg)
+
+Und wie geht es mir?
+
+Ich habe die ganze Zeit in mich gehört in der Hoffnung irgendwas zu spüren. Irgendetwas, das mir verrät, dass ich die mRNA bekommen habe und gerade eine Immunantwort losgetreten wird. 
+Aber irgendwie merke ich nix. Um die Einstichstelle war es etwas rot, aber das war relativ schnell weg. Interessanterweise haben lediglich 5% der Impfgruppe und 1% der Placebo Gruppe der BioNTech Studie (16-55 Yr of Age, Dose 1) eine Rötung am Arm. Diese Statistik hilft mir also nicht weiter.  
+Des Weiteren war mein Blutdruck (1 Messung) etwas erhöht, aber ansonsten war alles super. 
+
+Fazit am Ende von Tag 1
+
+Überrascht bin ich von der Tatsache, dass ich vor Einschluss in die Studie nicht auf eine aktuelle (mit PCR) oder eine frühere SARS-CoV-2 Infektion (Antikörper) getestet wurde. 
+Auch bin ich etwas verwundert über die Papierdokumentation. Ich frage mich ob das die Compliance bei den Teilnehmern erhöht.
+
+Große Hoffnung und den Wunsch habe ich, dass ich noch irgendwann im Laufe des Abends oder der Nacht irgendeine (zwar selten vorkommende, aber beschriebene und kurz anhaltende) Impfreaktion (nicht Nebenwirkung!!, z.B. Übelkeit, Schwindel etc.) zeige.
 
