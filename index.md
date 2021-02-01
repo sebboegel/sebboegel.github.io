@@ -55,7 +55,7 @@ Und da war es: an diesem Morgen bin ich mit Kopfschmerzen aufgewacht. Ich habe m
 
 **Warum freue ich mich?**
 
-Kopfschmerzen als "unerwünschte Wirkung" (dabei ist es eher eine Impfreaktion) wurden sowohl in der vorangeganen Studie mit dem CureVac-Impfstoff ![beobachtet](impfreaktion_curevac.jpg), als auch bei 42% Prozent der Impfgruppe in der BioNTech Studie ([16-55 Yr of Age, Dose 1] (https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) berichtet. 
+Kopfschmerzen als "unerwünschte Wirkung" (dabei ist es eher eine Impfreaktion) wurden sowohl in der vorangeganen Studie mit dem CureVac-Impfstoff ![beobachtet](impfreaktion_curevac.jpg), als auch bei 42% Prozent der Impfgruppe in der BioNTech Studie ([16-55 Yr of Age, Dose 1](https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) berichtet. 
 
 **Kopfschmerzen nach Impfung, hä?**
 
@@ -65,12 +65,15 @@ da nicht hingehört und beginnt Alarm zu schlagen. Das Alarmsignal in unserem K�
 
 **Oder?**
 
--Auf der anderen Seite gaben interessanterweise auch 34% der Probanden der Placebo-Gruppe in der BioNTech Studie ([16-55 Yr of Age, Dose 1] (https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) Kopfschmerzen nach der "Impfung" an. Sehr interessant!
+-Auf der anderen Seite gaben interessanterweise auch 34% der Probanden der Placebo-Gruppe in der BioNTech Studie ([16-55 Yr of Age, Dose 1](https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) Kopfschmerzen nach der "Impfung" an. Sehr interessant!
 -Des Weiteren kann es aber natürlich auch sein, dass die Kopfschmerzen von den nächtlichen Tritten und Füßen des Sohnes in meinem Gesicht kommen (Eltern von Kleinkindern wissen was ich meine und ich denke, dafür braucht es keine wissenschaftliche Erklärung über die molekularen Grundlagen).
 
 Also, an dieser Stelle hilft mir dieses Symptom nicht weiter zu erraten in welcher Gruppe ich bin. Das ist auch eigentlich gut so, denn placebo-kontrollierte, randomisierte, doppel-verblindete (also weder der Arzt noch ich wissen, was ich bekommen habe) Studien sind deswegen Gold-Standard, weil sie eben u.A. verblindet sind (dazu zu einem späteren Zeitpunkt mehr).
 
-Fazit am Ende von Tag 2:
+**Fazit am Ende von Tag 2**
 "Da steh' ich nun, ich armer Tor, Und bin so klug als wie zuvor!" (Goethe et al., 1808) 
+
+**Leseempfehlung**
+Wer einen schön geschriebenen Erfahrungsbericht einer Kollegin, die wirklich richtig geimpft wurde, lesen möchte, dem empfehle ich diesen [Blog](https://www.salonkolumnisten.com/autor/marisakurz).
 
 ## Tag 3: Papierkram
