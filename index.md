@@ -71,9 +71,12 @@ da nicht hingehört und beginnt Alarm zu schlagen. Das Alarmsignal in unserem K�
 Also, an dieser Stelle hilft mir dieses Symptom nicht weiter zu erraten in welcher Gruppe ich bin. Das ist auch eigentlich gut so, denn placebo-kontrollierte, randomisierte, doppel-verblindete (also weder der Arzt noch ich wissen, was ich bekommen habe) Studien sind deswegen Gold-Standard, weil sie eben u.A. verblindet sind (dazu zu einem späteren Zeitpunkt mehr).
 
 **Fazit am Ende von Tag 2**
+
 "Da steh' ich nun, ich armer Tor, Und bin so klug als wie zuvor!" (Goethe et al., 1808) 
 
 **Leseempfehlung**
+
 Wer einen schön geschriebenen Erfahrungsbericht einer Kollegin, die wirklich richtig geimpft wurde, lesen möchte, dem empfehle ich diesen [Blog](https://www.salonkolumnisten.com/autor/marisakurz).
 
 ## Tag 3: Papierkram
+(folgt)
