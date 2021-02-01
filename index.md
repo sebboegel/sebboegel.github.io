@@ -51,4 +51,26 @@ Große Hoffnung und den Wunsch habe ich, dass ich noch irgendwann im Laufe des A
 
 ## Tag 2: Der Anruf
 
-(folgt)
+Und da war es: an diesem Morgen bin ich mit Kopfschmerzen aufgewacht. Ich habe mich noch nie so über Kopfschmerzen gefreut. Dies habe ich auch sehr freudig der Mitarbeiterin des Studienzentrums mitgeteilt, als sie mich anrief (obligatorischer Telefonanruf am Tag nach der Spritze) um sich nach meinem Befinden zu erkundigen. Alles super hier, kein Fieber, nur etwas Kopfschmerzen und gute Stimmung!
+
+**Warum freue ich mich?**
+
+Kopfschmerzen als "unerwünschte Wirkung" (dabei ist es eher eine Impfreaktion) wurden sowohl in der vorangeganen Studie mit dem CureVac-Impfstoff ![beobachtet](impfreaktion_curevac.jpg), als auch bei 42% Prozent der Impfgruppe in der BioNTech Studie ([16-55 Yr of Age, Dose 1] (https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) berichtet. 
+
+**Kopfschmerzen nach Impfung, hä?**
+
+In dem mRNA Impfstoff ist ein ungefährlicher Teil des Virus codiert (das Spike Protein, welches als Andockstelle dem echten Virus ermöglicht in die Zellen einzudringen und das ist auch das Protein welches aktuell als mutiert gefunden wird). Die mRNA dieses Spike Proteins wird von den Zellen 
+im Oberarm (dem Ort der Injektion) in Protein übersetzt, wieder zerhäckselt (abgebaut) und an der Zelloberfläche dem Immunsystem präsentiert. Das passiert ständig in unseren Zellen, v.A. mit körpereigenen Proteinen. Im Falle aber eines fremden Proteins (hier vom Virus) erkennt das Immunsystem, dass das 
+da nicht hingehört und beginnt Alarm zu schlagen. Das Alarmsignal in unserem Körper sind Entzündungsbotenstoffe (zur anschaulicheren und unterhaltsameren Erklärung wie das ganze funktioniert, empfehle ich das [Video von Dr. Martin Moder](https://www.youtube.com/watch?v=0LnkoEOHSiM)). Eines dieser wichtigten Alarmsignale, sind die Interferone . Diese werden bei der Entzündungsreaktion auf Infektionen mit z.B. Viren und Bakterien produziert. Dies ist quasi der Start für eine Reihe von sogenannten Signalkaskaden, der Körper versucht jetzt also alles um diese Infektion zu bekämpfen. Dass dieses "Aufrüsten" nicht immer unbemerkt bleibt, kann man sich bestimmt gut vorstellen. So ist von Interferonen [bekannt](https://www.gelbe-liste.de/wirkstoffgruppen/interferone), dass sie (kurzfristig) zu Kopfschmerzen (und/oder grippe-ähnlichen Symptomen) führen können. Dies ist aber harmlos und nur von kurzer Dauer. Also alles super hier. Könnte also dafür sprechen, dass ich den Impfstoff bekommen habe. Yeah!
+
+**Oder?**
+
+-Auf der anderen Seite gaben interessanterweise auch 34% der Probanden der Placebo-Gruppe in der BioNTech Studie ([16-55 Yr of Age, Dose 1] (https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) Kopfschmerzen nach der "Impfung" an. Sehr interessant!
+-Des Weiteren kann es aber natürlich auch sein, dass die Kopfschmerzen von den nächtlichen Tritten und Füßen des Sohnes in meinem Gesicht kommen (Eltern von Kleinkindern wissen was ich meine und ich denke, dafür braucht es keine wissenschaftliche Erklärung über die molekularen Grundlagen).
+
+Also, an dieser Stelle hilft mir dieses Symptom nicht weiter zu erraten in welcher Gruppe ich bin. Das ist auch eigentlich gut so, denn placebo-kontrollierte, randomisierte, doppel-verblindete (also weder der Arzt noch ich wissen, was ich bekommen habe) Studien sind deswegen Gold-Standard, weil sie eben u.A. verblindet sind (dazu zu einem späteren Zeitpunkt mehr).
+
+Fazit am Ende von Tag 2:
+"Da steh' ich nun, ich armer Tor, Und bin so klug als wie zuvor!" (Goethe et al., 1808) 
+
+## Tag 3: Papierkram
