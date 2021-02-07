@@ -79,4 +79,12 @@ Also, an dieser Stelle hilft mir dieses Symptom nicht weiter zu erraten in welch
 Wer einen schön geschriebenen Erfahrungsbericht einer Kollegin, die wirklich richtig geimpft wurde, lesen möchte, dem empfehle ich diesen [Blog](https://www.salonkolumnisten.com/autor/marisakurz).
 
 ## Tag 3: Papierkram
+
+Wunderbar. Kopfschmerzen sind weg und alles ist super. Als ob nichts gewesen wäre. Kann ich mich also jetzt auf meine Klausuren konzentrieren. Pünktlich um 18 Uhr kommt die tägliche automatisierte Erinnerungsmail vom Studienzentrum, die "dokumentation der Nebenwirkungen" in den mitgegeben Tabellen auszufüllen. Ich bin jetzt schon ziemlich gestresst vom vielen Blättern und manuellen Ausfüllen. Solch eine Studie kostet so viel Geld, da verstehe ich nicht, warum es nicht drin war eine App oder eine Webseite aufzusetzen um genau dieses abzufragen. Man wird so lange erinnert bis man seine Angaben für diesen Tag gemacht hat. Mit KI oder (nocch abgefahrener) echten Menschen, könnte man dann auf ungwöhnliche "Nebenwirkungen" und/oder Symptomschilderungen sofort reagieren und den Studienteilnehmer anrufen. Die Dokumentation der Probanden ist solch ein wichtiger Teil bei der Studie um z.B. die Sicherheit zu belegen, dass es für mich unverständlich ist, quasi unkontrolliert allein dem Probanden zu überlassen. Solch eine Papierdokumentation kann leicht dazu führen, zu sagen: "Trage ich morgen ein, bin jetzt zu müde... oder habe Spätschicht ..... etc.". 
+Um fair zu sein: in der Mappe, die jedem Studienteilnehmer ausgehändigt wurde, gibt es eine Anleitung zu einem elektronischen Tagebuch, zu dem man irgendwann eingeladen wird. Was es damit auf sich hat, weiß ich noch nicht. So verbleibe ich jetzt einfach mal in der Hoffnung geimpft zu sein.
+
+An Tag 29 gibt es die 2. Dosis. Ich bin gespannt.
+
+## Tag 8: Dé jà-vu
+
 (folgt)
