@@ -97,6 +97,6 @@ Freudig musste ich heute feststellen, dass sowohl die Kopfschmerzen weg sind, al
 
 ## Tag 19: Berichtserstattung
 
-Heute gab es die Meldung, dass nun auch Gesundheitsberufe außerhalb der Unimedizin Mainz an der Studie teilnehmen können. Warum dies nicht gleich zu Beginn geschehen ist, ist mir schleierhaft. Je mehr an der Studie teilnehmen, umso höher die Wahrscheinlichkeit, dass es früher werden die Endpunkte erreicht und umso eher kommt zu einer Zulassung. Interessant finde ich die verschiedenen Mitteilungen dazu.
+Heute gab es die Meldung, dass nun auch Gesundheitsberufe außerhalb der Unimedizin Mainz an der Studie teilnehmen können. Warum dies nicht gleich zu Beginn geschehen ist, ist mir schleierhaft. Je mehr an der Studie teilnehmen, umso höher die Wahrscheinlichkeit, dass es früher werden die Endpunkte erreicht und umso eher kommt zu einer Zulassung. Interessant finde ich die verschiedenen Mitteilungen dazu, einmal vom ![SWR Corona Newsticker](curevac_erweitert_studie_swr.png) und ![Spiegel Online](curevac_erweitert_studie_spiegel.png).
 
 
