@@ -91,4 +91,12 @@ Mit fulminanten Kopfschmerzen aufgewacht, die aber im Laufe des Tages besser wur
 
 (+) Leute, es lohnt sich **immer** sein Impfheft - egal wie alt und kaputt es ist - auszukramen und zusammen mit seinem Hausarzt/ärztin durchzugehen. Bei meinen Kindern achte ich penibel auf die Einhaltung der STIKO Empfehlungen und selbst habe ich meinem Impfstatus vernachlässigt. Erst mit Eintritt in das klinische Semester in meinem Medizinstudium, wurde ich beim Betriebsarzt durchgecheckt und v.A. sind wir im Detail mein Impfbuch durchgegangen. Wir mussten zu meinem Entsetzen festellen, dass mein (dokumentierter) Impftstatus bzgl. MMR unklar ist, aufgrund unvollständiger Dokumentation vor mehr als 30 Jahren. Das war mir natürich sehr unangenehm und wurde natürlich schnellstens behoben - zu meinem eigenen Schutz, aber v.A. auch für den Schutz der Patienten, denen ich im Laufe der Ausbildung und später als Arzt begegnen werde. Fazit und Appell: schaut in Euer Impfheft und sprecht mit Eurem Hausarzt/ärztin.
 
+## Tag 9: Alles hat ein Ende
+
+Freudig musste ich heute feststellen, dass sowohl die Kopfschmerzen weg sind, als auch die tägliche Papier-Dokumentation der Reaktionen auf die Impfung heute endet. Es werden Impfreaktion genau für 7 Tage nach der Impfung abgefragt und dokumentiert. Nun soll ich nur noch alle 4 Tage Symptome (z.B. einer Infektion) dokumentieren. Minimiert meinen Schreibaufwand ungemein und macht mich glücklich.
+
+## Tag 19: Berichtserstattung
+
+Heute gab es die Meldung, dass nun auch Gesundheitsberufe außerhalb der Unimedizin Mainz an der Studie teilnehmen können. Warum dies nicht gleich zu Beginn geschehen ist, ist mir schleierhaft. Je mehr an der Studie teilnehmen, umso höher die Wahrscheinlichkeit, dass es früher werden die Endpunkte erreicht und umso eher kommt zu einer Zulassung. Interessant finde ich die verschiedenen Mitteilungen dazu.
+
 
