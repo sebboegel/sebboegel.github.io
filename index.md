@@ -95,9 +95,12 @@ Mit fulminanten Kopfschmerzen aufgewacht, die aber im Laufe des Tages besser wur
 
 Freudig musste ich heute feststellen, dass sowohl die Kopfschmerzen weg sind, als auch die tägliche Papier-Dokumentation der Reaktionen auf die Impfung heute endet. Es werden Impfreaktion genau für 7 Tage nach der Impfung abgefragt und dokumentiert. Nun soll ich nur noch alle 4 Tage Symptome (z.B. einer Infektion) dokumentieren. Minimiert meinen Schreibaufwand ungemein und macht mich glücklich.
 
+
 ## Tag 19: Berichtserstattung
 
 Heute gab es die Meldung, dass nun auch Gesundheitsberufe außerhalb der Unimedizin Mainz an der Studie teilnehmen können. Warum dies nicht gleich zu Beginn geschehen ist, ist mir schleierhaft. Je mehr an der Studie teilnehmen, umso höher die Wahrscheinlichkeit, dass es früher werden die Endpunkte erreicht und umso eher kommt zu einer Zulassung. Interessant finde ich die verschiedenen Mitteilungen dazu: SWR Corona Newsticker und Spiegel Online ![ ](curevac_erweitert_studie_swr.png) ![ ](curevac_erweitert_studie_spiegel.png).
 Während es sich beim SWR so liest, als sei man überrascht, dass "aber nur 1/3 der Probanden-Zahl erreicht" wurde, wird dieses 1/3 bei der Spiegel Meldung als Erfolg gefeiert. Offiziell heißt es: ["Wir erhalten täglich Anfragen für eine Studienteilnahme von Beschäftigten aus dem Bereich der Gesundheitsberufe, denen wir uns nicht verschließen wollen."](https://www.unimedizin-mainz.de/presse/pressemitteilungen/aktuellemitteilungen/newsdetail/article/chance-auf-fruehzeitigen-covid-19-impfschutz-fuer-gesundheitspersonal-in-der-region-mainz.html). Egal, was die Gründe sind, diese Ausweitung ist gut und nötig, denn ich glaube es wird immer schwieriger Teilnehmer für eine Studie zu gewinnen, je mehr zugelassenen Impfstoff es gibt. Mehr Teilnehmer ist also gut, aber auch eine Herausforderung an das Personal dieser Studie. Hier muss ich mal ein Riesen Lob für alle Kolleginnen und Kollegen im Studienzentrum ausprechen für die hervorragende und professionelle Arbeit und enge Betreuung.
+
+
 
 
