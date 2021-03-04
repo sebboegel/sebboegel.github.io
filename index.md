@@ -87,4 +87,8 @@ An Tag 29 gibt es die 2. Dosis. Ich bin gespannt.
 
 ## Tag 8: Dé jà-vu
 
-(folgt)
+Mit fulminanten Kopfschmerzen aufgewacht, die aber im Laufe des Tages besser wurden und abends verschwunden waren. Im vergangenen Jahr (2020) habe ich mich gegen MasernMumpsRötelnWindpocken (MMRV) beim Betriebsarzt der Uniklinik impfen lassen (+) und genau nach 7 Tagen hatte ich die gleichen Kopfschmerzen. Das es sich bei MMr um einen Lebendimpfstoff handelt (anders als bei mRNA Impfstoffen), ist diese Impfreaktion nach etwas 1 Woche auch zu erwarten, da der MMRV-Impfstoff ["nachahmt"](https://www.patienten-information.de/kurzinformationen/masernimpfung-bei-kindern#die-impfung-gegen-masern) ohne aber die [dramatischen Folgen](https://www.nature.com/articles/d41586-019-03324-7) einer richtigen Infektion. Ob die Kopfschmerzen was mit dem CureVac Impfstoff zu tun haben, kann ich natürlich nicht sagen, denn ["Correlation is not Causation"](https://www.tylervigen.com/spurious-correlations).
+
+(+) Leute, es lohnt sich **immer** sein Impfheft - egal wie alt und kaputt es ist - auszukramen und zusammen mit seinem Hausarzt/ärztin durchzugehen. Bei meinen Kindern achte ich penibel auf die Einhaltung der STIKO Empfehlungen und selbst habe ich meinem Impfstatus vernachlässigt. Erst mit Eintritt in das klinische Semester in meinem Medizinstudium, wurde ich beim Betriebsarzt durchgecheckt und v.A. sind wir im Detail mein Impfbuch durchgegangen. Wir mussten zu meinem Entsetzen festellen, dass mein (dokumentierter) Impftstatus bzgl. MMR unklar ist, aufgrund unvollständiger Dokumentation vor mehr als 30 Jahren. Das war mir natürich sehr unangenehm und wurde natürlich schnellstens behoben - zu meinem eigenen Schutz, aber v.A. auch für den Schutz der Patienten, denen ich im Laufe der Ausbildung und später als Arzt begegnen werde. Fazit und Appell: schaut in Euer Impfheft und sprecht mit Eurem Hausarzt/ärztin.
+
+
