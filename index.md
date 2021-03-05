@@ -108,5 +108,12 @@ Während es sich beim SWR so liest, als sei man überrascht, dass "aber nur 1/3 
 
 Warum wir aufhören sollten Impfstoffwirksamkeiten zu vergleichen, beschreibt [@immunoblogist](https://twitter.com/immunoblogist) [hier](https://immunoblogists.wordpress.com/2021/02/07/warum-wir-aufhoren-sollten-impfstoffwirksamkeiten-zu-vergleichen/). 
 
+## Tag 29 (+4): Impfung Teil 2
+
+Durch Umzug des Studienzentrums (in größere Räumlichkeiten, was Sinn macht aufgrund der Nachfrage) und Terminfindungsschwierigkeiten auf meiner Seite durch Homeschooling gab es die 2. Impfung 4 Tage später als geplant. Stellt aber anscheinend kein Problem da. Der 2. Termin war eigentlich recht spektakulär, weil es viele Neuigkeiten gab: 1.) es gibt nun eine App. 2.) Das neue Studienzentrum. 3.) Die Ausweitung der Probanden scheint geklappt zu haben. 4.) Hinweis auf die Möglichkeit der Entblindung: wie oben erwähnt, wird es immer schwieriger für Sars-CoV-2 Impfstoffstudien. Den Umstand, dass immer mehr zugelassene Vakzine verfügbar sind und man als Mitarbeiter im Gesundheitswesen (das sind ja die Probanden) irgendwann in naher Zukunft Zugang zu einem Impfstoff haben wird, hat die Studienleitung nun aufgegriffen. Wenn ich irgendwann Zugang zu einer zugelassenen Impfung bekomme, dann darf ich natürlich machen, soll mich aber vorher mit dem Studienzentrum in Verbindung setzen und ich werde entblindet. Soll heißen, sie sagen mir ob es überhaupt Sinn macht, mich impfen zu lassen, weil ich in der Verum Gruppe war und jede Menge tolle Antikörper gemessen wurden. Oder ob es total Sinn macht, weil ich in der Placebogruppe war.
+
+Die "Impfung" an sich war dagegen unspektakulär: keine körperliche Untersuchung, kurzes Frage/Antwort Spiel mit einem Arzt (Memo an mich: als Arzt immer kurz vorstellen, ist sehr angenehm für den Patienten), Blutdruck, Sauerstoffsättigung, But abnehmen, Spritze, 30 Minuten Beobachtung (in der Zeit wurde ich in die App eingewiesen), den Erhalt der 70 Euro quittieren und nach Hause fahren.
+
+## Tag 34: Der Anruf
 
 
