@@ -116,4 +116,9 @@ Die "Impfung" an sich war dagegen unspektakulär: keine körperliche Untersuchun
 
 ## Tag 34: Der Anruf
 
+Es scheint wohl zu sein, dass bei den mRNA-Impstoffen (im Vergleich zu AstraZeneca) die Impfreaktionen (wenn überhaupt welche aufgetreten sind), etwas mehr zu spüren waren als nach der 1. Impfung.
+Ich hatte nach "Impfung 1" Kopfschmerzen (1 Tag lang), also habe ich auf etwas mehr Reaktion nach "Impfung 2" gehofft. Aber am Tag danach fing alles normal an. Nix zu spüren. Keine rote Stelle um Einstich. In der 2. Tageshälfte war ich müde (etwas müder als sonst). Fatigue - also Müdigkeit - war bei der BioNTech Studie nach Dosis 2 mit [59% der Probanden](https://pubmed.ncbi.nlm.nih.gov/33301246/#&gid=article-figures&pid=figure-2-uid-1) häufiger als bei der 1. Dosis (47%). Interessanterweise hatten immerhin noch 23% der Probanden in der Placebo-Gruppe angegeben innerhalb der ersten 7 Tage an Fatique zu leiden. Nun, also Proband, kann ich das sehr gut nachempfinden. Müdigkeit ist bei Eltern von (kleinen) Kindern (dazu noch zu Pandemiezeiten) kein selten vorkommender Zustand. Aber vielleicht merkt man das nicht immer, das man funktionieren muss, es viel zu tun gibt und keine Zeit bleibt, in sich reinzuhören. Nach der Impfung als Teil einer Studie, habe ich schon auch genau in mich gehört und auf Symptome geachtet. Es kann sein, dass die Nacht echt besonders mies war und ich deswegen müde bin, es aber dadurch verstärke, dass ich meine Aufmerksamkeit darauf lenke. 
 
+Auch heute gab es wieder einen Anruf vom Studienzentrum nach meinem Befinden. Dieses Mal war ich weniger euphorisch.
+
+Also kann man als Fazit festhalten: diese Art von Impfreaktion, bei der ich ganz sicher gewesen wäre in der Verum-Gruppe zu sein, blieb aus. Ist aber auch ohne Belang, denn auch mit Impfung gilt es weiterhin vorsichtig zu sein, Abstand und Hygieneregeln einzuhalten, Kontakte zu minimieren; vor allem jetzt, bei Beginn der 3. Welle. Bleibt gesund!
