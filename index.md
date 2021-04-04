@@ -144,9 +144,16 @@ Unter dem Titel ["Vom Hoffnungsträger zum Nachzügler"](https://www.tagesschau.
 
 ... aber diesmal richtig. Ich habe als Beschäftigter der Universitätsmedizin Mainz ein Angebot zur Impfung erhalten und mich sofort dafür angemeldet. Die Gründe sind die Gleichen wie zu Beginn meines Blogs dargestellt. Nur ist der Respekt vor diesem Virus gewachsen mit den neuen Varianten, allen voran B117, die vorherrschende und für den schnellen Anstieg der Fallzahlen verantwortliche Variante. Vor allem in dieser Phase der Pandemie habe ich mich riesig über dieses Angebot gefreut. Nicht nur für mich, sondern v.A. für meine Familie und die Patienten, die ich in meinen beiden Famulaturen und zahlreichen Hospitationen zwischen April und September sehen werde. Es tut ir zwar sehr leid für die Studie, denn ich will, dass bald ein weiterer Impftstoff zugelassen werden kannn, jedoch habe ich aus genannten Gründen nicht gezögert und sofort einen Termin gemacht: den frühesten Termin, der möglich war. Habe mich dabei bewusst für AstraZeneca entschieden. Nun ist das eingetreten, worüber ich an Tag 33 berichtet habe: diese Studie muss dem Umstand Rechnung tragen, dass andere Impftstoffe verfügbar sind, v.A. wenn diese Studien Probanden aus Unikliniken einschließt. Ich habe also sofort das Studienzentrum über mein Impfangebot unterrichtet und ein Rückruf des Prüfarztes ergab trotz meiner "wohl psychogenen Symptomen nach Impfung 1 und 2" (Zitat Prüfarzt), dass ich in der Placebo-Gruppe war und er mir deshalb dringend empfiehlt, dieses Impfangebot anzunehmen. Ich bleibe aber weiter in der Studie drin, werde weiter zu den geplanten Terminen im Studienzentrum erscheinen, bekomme weiterhinen einen Abstrich falls ich Symptome entwickel, werde aber "statistisch anders behandelt".
 
-Heute also Impfung mit Astra und ich bin mega glücklich.
+Heute also Impfung mit Astra und ich bin mega glücklich und [dankbar](https://twitter.com/sebboeg/status/1375428443077287941?s=20).
 
 ## Tag 66: Müdigkeit
+
+Tag 1 nach der Astra-Impfung. Im direkten Vergleich zur Müdigkeit, die ich jetzt erfahre, ist es mir gerade zu angenehm, dass ich das (wahrscheinlich durch "zu sehr in mich reinhören" verstärkte) Müdigkeitsempfinden nach der 2. CureVac Impfung (die Placebo war) als mögliche Impfreaktion in Betracht gezogen habe. Aber wahrscheinlich kann man auch so die 23% Prozent der Placebo-Probanden der BioNTech Studie erklären, die "Fatigue" als Impfreaktion nach der 2. Impfung angegeben haben, erklären.
+
+## Tag 76: Freude
+
+Mir geht es super und ich bin einfach nur froh, dass ich die Möglichkeit hatte mich impfen zu lassen und es zu keiner weiteren Verzögerung gekommen ist, wie jetzt geschehen durch veränderte Impfempfehlungen von Astra. Es ist ein gutes Gefühl. Aber natürlich gelten weiterhin die üblichen Verhaltensregeln: Kontaktreduzierung, Maske, Abstand, Hygiene ....... Bleibt gesund!
+
 
 
 
