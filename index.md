@@ -122,3 +122,24 @@ Ich hatte nach "Impfung 1" Kopfschmerzen (1 Tag lang), also habe ich auf etwas m
 Auch heute gab es wieder einen Anruf vom Studienzentrum nach meinem Befinden. Dieses Mal war ich weniger euphorisch.
 
 Also kann man als Fazit festhalten: diese Art von Impfreaktion, bei der ich ganz sicher gewesen wäre in der Verum-Gruppe zu sein, blieb aus. Ist aber auch ohne Belang, denn auch mit Impfung gilt es weiterhin vorsichtig zu sein, Abstand und Hygieneregeln einzuhalten, Kontakte zu minimieren; vor allem jetzt, bei Beginn der 3. Welle. Bleibt gesund!
+
+## Tag 43: Blut
+
+Kurzer Termin im Impfzentrum zur Blutentnahme und obligatorischer kurzer medinischer Check-Up. U.A. wird sehr wahrscheinlich nach Antikörpern im Blut gesucht, die (falls ich in der Impfgruppe war) aufgrund des mRNA Impfstoffes gebildet wurden. Aber so genau konnte mir die Kollegin, die mich untersucht hat, auch nicht sagen nach was alles geschaut wird. In der Probandaufklärung steht nur "Es wird eine Blutprobe zur Beurteilung Ihres Immunsystems entnommen". Interessant wäre es ja bei jedem Probanden nach Impfung zu sehen, wie hoch und wie lange der Titer an sogenannten neutralisierenden Antikörpern im Blut ist. Das sind die, vom Immunsystem gebildeten Antikörper, die in der Lage sind, die Stelle des Virus zu blockieren, mit Hilfe derer es in die Zelle eindringen kann. Neutralisierende Antikörper sind also die Türsteher für jede Zelle: "Du kommst hier nicht rein!". Ob dieser Aufwand der Untersuchung in dieser Studie bei jedem Probanden betrieben wird, weiß ich nicht. Zumindestens wurde dies bei [dieser](https://pubmed.ncbi.nlm.nih.gov/33053279/#&gid=article-figures&pid=figure-4-uid-3) BioNTech Studie gemacht um zu entscheiden welcher der beiden Impfstoffkandidaten potenter ist und damit in die klinische Testung gehen sollte.
+
+## Tag 44: Happy durch App
+
+Die Dokumentation von Symptomen per App macht wesentlich mehr Spaß und ist relativ unkompliziert. Ich bekomme immer noch alle 4 Tage eine Erinnerungsmail und auch die App erinnert mich regelmäßig, falls ich mal einen Eintrag nicht gemacht habe. Das erhöht auf jeden Fall die Compliance.
+
+## Tag 57: Noch mehr Blut
+
+Gleicher Prozedur wie an Tag 43. Nur, dass es im Studienzentrum spürbar leerer war. Ganz angenehm, nach dem doch überraschend großem Gewusel meiner letzten beiden Besuche. So musste ich nicht lange an den verschiedenen Stationen (Unterschung, Blutabnahme, Geld, nächster Termin) warten und war ziemlich schnell wieder draußen. Muss wohl am Termin, kurz vor Feierabend gelegen haben.
+
+## Tag 64: "Wo bleibt CureVac?"
+
+In dieser Woche häufen sich die Pressemeldungen, die sich mit dem Stand des Impfstoffes von CureVac beschäftigen, mit den Fragen: ["Wo bleibt Curevac?"](https://www.zdf.de/nachrichten/panorama/corona-impfstoff-curevac-100.html) oder ["Wann ist Curevac bereit zur Impfung?"](https://www.zdf.de/nachrichten/zdfspezial/corona-krise---impfstoff-curevac-zulassung-100.html). Sehenswert auch ein Bericht zur Phase 3-Studie, die an der [Uniklinik Köln]("https://innere1.uk-koeln.de/informationen/aktuelles/detailansicht/aktueller-stand-beim-curevac-impfstoff/) läuft. Nur leider ist auch hier mind. 1 Caveat enthalten: wenn das Studien-Protokoll in Köln identischt ist zu dem in Mainz (und davonb gehe ich aus), dann sind die Chancen den Impfstoff zu erhalten nicht 50:50 (siehe meinen ersten Post).
+Unter dem Titel ["Vom Hoffnungsträger zum Nachzügler"](https://www.tagesschau.de/wirtschaft/unternehmen/curevac-update-impfstoff-corona-101.html) fasst die Tagesschau schön die Herausforderungen zusammen, die CureVac in dieser Studie zu dieser Zeit der Pandemie (neue Varianten, andere Impfstoffe zugelassen). Ermutigend sind die [Daten aus Mausversuchen](https://www.biorxiv.org/content/10.1101/2021.03.22.435960v1) zur Wirksamkeit gegen die südafrikanische Variante.
+
+
+
+
